@@ -1,0 +1,5 @@
+{
+  "name": "CommitGenius AI",
+  "description": "A high-performance senior developer agent that generates professional Git commit messages from your code changes using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
